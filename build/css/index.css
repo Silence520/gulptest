@@ -1,12 +1,13 @@
 body {
-  background: #ddf;
+  background: #364;
+  font-size: 22px;
 }
 body h1 {
-  font-size: 22px;
+  font-size: 12px;
   font-weight: normal;
 }
 body h4 {
   font-size: 30px;
-  color: #ddf;
+  color: #364;
   border-radius: 2px;
 }
