@@ -1,0 +1,12 @@
+body {
+  background: #ddf;
+}
+body h1 {
+  font-size: 22px;
+  font-weight: normal;
+}
+body h4 {
+  font-size: 30px;
+  color: #ddf;
+  border-radius: 2px;
+}
